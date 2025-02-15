@@ -1,4 +1,6 @@
-# Dashboard Overview:-
+# Blinkit Dashboard 
+
+# Overview:-
 
 # Tableau Public:
 https://public.tableau.com/app/profile/akbarhusain.chaudhary/viz/Blinkit_17355703565320/BlinkitDashboard?publish=yes
@@ -6,7 +8,8 @@ https://public.tableau.com/app/profile/akbarhusain.chaudhary/viz/Blinkit_1735570
 
 
 
-# Blinkit Dashboard Summary:
+# Description:
+
 
 This dashboard provides insights into sales performance, top-selling items, outlet distribution, and key performance indicators (KPIs), helping to analyze business trends effectively.
 
